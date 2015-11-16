@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://86872014.github.io/blog/2015/11/17/no-dot-6-bei-qi-fu-de-xiao-dong-wu/</loc>
+    <lastmod>2015-11-17T00:01:49+08:00</lastmod>
+  </url>
+  <url>
     <loc>http://86872014.github.io/blog/2015/04/08/dont-rely-on-luck/</loc>
     <lastmod>2015-04-08T08:17:44+08:00</lastmod>
   </url>
@@ -66,10 +70,10 @@
   </url>
   <url>
     <loc>http://86872014.github.io/blog/archives/</loc>
-    <lastmod>2015-04-08T08:45:04+08:00</lastmod>
+    <lastmod>2015-11-17T00:44:14+08:00</lastmod>
   </url>
   <url>
     <loc>http://86872014.github.io/</loc>
-    <lastmod>2015-04-08T08:45:04+08:00</lastmod>
+    <lastmod>2015-11-17T00:44:14+08:00</lastmod>
   </url>
 </urlset>
